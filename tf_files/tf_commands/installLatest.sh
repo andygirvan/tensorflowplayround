@@ -1,1 +1,0 @@
-cd /tensorflow && git pull

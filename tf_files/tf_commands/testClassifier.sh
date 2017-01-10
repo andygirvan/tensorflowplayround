@@ -1,0 +1,1 @@
+python /tf_files/label_image.py /tf_files/tf_photos/test_photos/[PHOTO ID HERE]

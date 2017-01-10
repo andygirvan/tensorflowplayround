@@ -5,6 +5,10 @@ https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/
 # How to load up Tensorflow
 
 ```
+docker run -it -v PROJECTFOLDER/tf_files:/tf_files  gcr.io/tensorflow/tensorflow:latest-devel
+
+OR run:
+
 sh startDocker.sh
 ```
 
