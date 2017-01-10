@@ -38,3 +38,9 @@ TBC
 - [ ] Download test data photos
 - [ ] Put the test data photos in correct loc
 - [ ] Test the data using TF
+
+# RESULTS OF TF:
+
+```
+TBC
+```
