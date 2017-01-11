@@ -32,8 +32,8 @@ TBC
 
 # Still Todo
 
-- [ ] Download training data photos
-- [ ] Put the training data photos in correct loc
+- [X] Download training data photos
+- [X] Put the training data photos in correct loc
 - [ ] Train the data using TF
 - [ ] Download test data photos
 - [ ] Put the test data photos in correct loc
